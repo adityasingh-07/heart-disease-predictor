@@ -44,7 +44,7 @@ An end-to-end machine learning project that predicts the risk of heart disease f
 ## Running locally
 
 ​```bash
-git clone https://github.com/<your-username>/heart-disease-predictor.git
+git clone https://github.com/adityasingh-07/heart-disease-predictor.git
 cd heart-disease-predictor
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
